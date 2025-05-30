@@ -1,0 +1,5 @@
+*.h5ad
+*.csv
+data/
+preprocessed/
+figures/
